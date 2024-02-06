@@ -32,14 +32,19 @@ body {
     font-size: x-large;
 }
 
+.e-breadcrumb a, .e-breadcrumb a:hover{
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
 .btn:focus, .btn:active{
-    outline:none !important;
-    box-shadow:none;
+    outline: none !important;
+    box-shadow: none;
 }
 
 .no-a-decoration, .no-a-decoration:hover{
-    text-decoration:none;
-    color:inherit;
+    text-decoration :none;
+    color: inherit;
 }
 
 .e-grid {
