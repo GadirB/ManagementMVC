@@ -3,16 +3,25 @@ Finance Management Project
 This project is developed using ASP.NET Core MVC with .NET 8 and utilizes Microsoft SQL Server as the database. It serves as a finance management application allowing users to track their income and expenses through interactive Doughnut and Spline charts. Additionally, it enables users to add categories and transactions.
 
 Technologies Used
+
 •	ASP.NET Core MVC: The web application framework used for building the application.
+
 •	.NET 8: The runtime environment for executing the application.
+
 •	Microsoft SQL Server: The relational database management system used for storing data.
+
 •	Syncfusion.EJ2.AspNet.Core: A library utilized for implementing interactive UI components like Doughnut and Spline charts.
 
 Features
+
 •	Doughnut Chart: Visualizes income and expenses data, providing users with a clear overview of their financial status.
+
 •	Spline Chart: Presents income and expense trends over time, aiding users in analyzing their financial patterns.
+
 •	Category Management: Allows users to create, edit, and delete categories to organize their transactions effectively.
+
 •	Transaction Management: Enables users to add, edit, and delete transactions, facilitating the tracking of individual financial activities.
+
 
 Getting Started
 To run the project locally, follow these steps:
